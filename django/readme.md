@@ -27,11 +27,12 @@
 3. 로그인되어 있는지, 안 되어 있는지 확인 -> 되어 있으면 로그인 페이지로 다시 가려고 하면 자동으로 홈으로 리다이렉션
 ### db 에 저장되어 있는 session 정보(django_session 테이블)와 웹에 저장되어 있는(F12 - network, application 에서 확인) session 정보가 일치하는지 확인함
 ### 회원가입(틀만 짜놓음)
-#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/f437b91b-ef3c-4c9d-af4b-e96615a27cef)
-#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/cad4c359-b43e-4d18-8af8-b345e51eea1f)
+#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/1b9767cc-046d-4337-bbff-2390de4ed18d)
+#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/b008b432-31cc-4544-8484-1906f6dc5757)
 ### 회원가입 시 필요사항 알림창 출력
-#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/0ca7bdab-6d04-4aeb-b3de-41615240ddf4)
+#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/e5e93ff6-1ff2-4085-9531-487d53fafb22)
 ### 로그인
-#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/a7aad998-3e1c-4dba-8d26-31b7ff69aa0e)
+#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/3fba2316-2f02-4e8f-9f15-d5eec19a5800)
 ### 로그인 성공 시 리다이렉션
-#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/b4be783c-916e-4e42-b7c3-5411b987051f)
+#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/237dc4db-d9d2-4303-9921-123d1f87c5f3)
+
