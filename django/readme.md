@@ -30,7 +30,7 @@
 #### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/1b9767cc-046d-4337-bbff-2390de4ed18d)
 #### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/b008b432-31cc-4544-8484-1906f6dc5757)
 ### 회원가입 시 필요사항 알림창 출력
-#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/e5e93ff6-1ff2-4085-9531-487d53fafb22)
+#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/3f29afb7-e128-499b-a0e6-1dabb60f2af6)
 ### 로그인
 #### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/3fba2316-2f02-4e8f-9f15-d5eec19a5800)
 ### 로그인 성공 시 리다이렉션
