@@ -35,4 +35,11 @@
 #### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/3fba2316-2f02-4e8f-9f15-d5eec19a5800)
 ### 로그인 성공 시 리다이렉션
 #### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/237dc4db-d9d2-4303-9921-123d1f87c5f3)
+### <br/><br/><br/>
+
+# 230522
+## 로그인
+### 로그인 안 되어 있을 때는 항상 login 페이지로 이동
+- middleware 로 구현
+### <br/><br/><br/>
 
