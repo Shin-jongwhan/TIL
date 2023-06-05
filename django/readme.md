@@ -43,3 +43,15 @@
 - middleware 로 구현
 ### <br/><br/><br/>
 
+# 230605
+## 그 동안 한 것
+1. 로그인 / 회원가입
+- 에러메세지 출력
+- 세션 유지 및 만료
+- 로그인 중인지 체크
+- 로그아웃
+2. db 쿼리 및 데이터 파싱
+- 특정 id 입력하면 그 id 에 맞는 쿼리를 제출하고 데이터를 파싱해서 가져오도록 함
+#### ![image](https://github.com/Shin-jongwhan/TIL/assets/62974484/ace5ca0e-61dc-486a-8cd3-1b3ed2bd4bf4)
+3. middleware 구현
+### <br/><br/><br/>
