@@ -1,7 +1,3 @@
-### 230824
-## html, javascript, css 정리하는 공간
-### <br/><br/><br/>
-
 ## cloudtables
 ### https://cloudtables.com/
 ### 테이블 만드는 데에 꽤 잘 꾸며주길래 한 번 예시로 사용해보았다.
