@@ -17,5 +17,5 @@
 ```
 git clone https://[user_name]:[token]@[github_https_url]
 ```
-### github_https_url은 아래 주소에서 https://만 제외한 것이다.
+### github_https_url은 아래 주소에서 https:\/\/만 제외한 것이다.
 #### ![image](https://github.com/user-attachments/assets/c0413ba7-d2da-49e2-b1bb-6c209237f6b2)
