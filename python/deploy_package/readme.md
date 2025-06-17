@@ -28,9 +28,9 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "dofp"
 version = "0.1.0"
-description = "DeepOmics FFPE Plus pipeline for client"
+description = "test"
 authors = [
-  { name="Theragenbio", email="test@theragenbio.com" }
+  { name="Theragenbio", email="test@test.com" }
 ]
 readme = "README.md"
 license = {file = "LICENSE"}
@@ -60,7 +60,7 @@ dependencies = [
 ### setup.cfg
 ```
 [metadata]
-name = dofp
+name = test
 version = 0.1.0
 author = test
 author_email = contact@test.com
