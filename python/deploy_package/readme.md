@@ -107,6 +107,7 @@ python -m build
 #### <br/>
 
 ### 그러면 dist 폴더가 하나 생긴다.
+#### * dofp는 내가 진행하는 프로젝트 이름이다. 이름은 설정에 따라 바뀐다.
 ```
 dist/
 ├── dofp-0.1.0-py3-none-any.whl
